@@ -7,7 +7,7 @@ street_ko,street_en,address,dong_ko,dong_en,lng,lat,score
 신당동떡볶이골목,Topokki alley,서울시 중구 신당동 일대,신당동,Cheonggu-dong,127.013160116,37.557255013,41
 돌담길,Doldam-gil,서울시 중구 소공동 일대,소공동,Sogong-dong,126.9799342986,37.5641304492,34
 명동거리,Myeong-dong street,서울시 중구 명동 일대,명동,Myeong-dong,126.9788194313,37.568058597,97
-청계천헌책방거리,Cheonggye Stream secondhand bookshop street,서울시 중구 광희동 일대,광희동,Gwanghui-dong,126.9959254377,37.5613498068,54
+청계천헌책방거리,Cheonggye Stream secondhand bookshop street,서울시 중구 광희동 일대,광희동,Gwanghui-dong,127.0081106,37.5695018,54
 필리핀거리,The Philippines Street,서울시 종로구 혜화동 일대,혜화동,Jongno1.2.3.4ga-dong,126.9929898185,37.5819896661,3
 북악산길산책로,Bugaksan-gil,서울시 종로구 평창동 일대,평창동,Pyeongchang-dong,126.957402192,37.6178956805,32
 청와대앞길,Cheongwadaeap-gil,서울시 종로구 청운효자동 일대,청운효자동,Cheongunhyoja-dong,126.9684554703,37.5896729314,3
@@ -24,7 +24,7 @@ street_ko,street_en,address,dong_ko,dong_en,lng,lat,score
 연신내로데오거리,Rodeo Street,서울시 은평구 갈현2동 일대,갈현2동,Galhyeon2-dong,126.9129160256,37.6209706338,17
 해맞이길,Haemaji-gil,서울시 용산구 한남동 일대,한남동,Hannam-dong,127.0059286959,37.5353973609,7
 용산감자탕거리,Yongsan Pork Back-bone Stew Road,서울시 용산구 한강로동 일대,한강로동,Hangangno-dong,126.9730641438,37.5319454062,5
-경리단길,Finance corps street,서울시 용산구 이태원2동 일대,이태원2동,Itaewon2-dong,126.991703953,37.5389940121,99
+경리단길,Finance corps street,서울시 용산구 이태원2동 일대,이태원2동,Itaewon2-dong,126.9916641,37.539718,99
 이태원거리,Itaewon street,서울시 용산구 이태원1동 일대,이태원1동,Itaewon2-dong,126.991703952,37.5389940111,99
 여의서로,Yeouiseoro,서울시 영등포구 여의동 일대,여의동,Yeoui-dong,126.9294280442,37.5283125747,8
 안양천제방벚꽃길,Anyangcheon Beotkkot-gil,서울시 영등포구 양평1동 일대,양평1동,Yangpyeong1-dong,126.8886175026,37.5232030914,16
