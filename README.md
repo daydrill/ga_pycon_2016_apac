@@ -2,6 +2,7 @@
 ## Decision making with Genetic Algorithms using DEAP    
 - info : https://www.pycon.kr/2016apac/program/16  
 - slide : https://github.com/pythonkr/pyconapac-2016-files/raw/master/20160814-102-16-SongChisung.pdf  
+  
 ---  
   
   
